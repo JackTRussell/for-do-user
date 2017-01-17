@@ -9,7 +9,7 @@ And today is 2015-11-18
 @SC_155533
 Scenario: Check update from GIT
 Given I created new scenario in repository
-Then I can see it in Relime
+Then I can see it in Relime andgkl
 
 @SC_155534
 Scenario: 
