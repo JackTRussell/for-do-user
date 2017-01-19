@@ -10,14 +10,13 @@ And i want save this string to Git
 And this string must be pulled from Git
 And this also must be re-stored on GIT!!!!
 And 34wteyeyy
-When hjk
+When hjk 11111
 
 Examples: 
 |user|id|salary|
 |donald|||
 |dewie|||
 |fethry|||
-
 
 @SC_155549 @High @Test_1
 Scenario Outline: Modify an employee's salary
