@@ -11,9 +11,6 @@ And two
 When something
 And some changes
 And test
-When test
-And test
-And test
 
 @SC_176525
 Scenario: 
