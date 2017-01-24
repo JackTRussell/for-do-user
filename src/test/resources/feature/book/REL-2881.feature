@@ -12,6 +12,7 @@ When something
 And some changes
 And test
 And When
+And test
 
 @SC_176525
 Scenario: 
