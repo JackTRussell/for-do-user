@@ -6,14 +6,6 @@ Background:
 
 And today is 2015-11-18
 
-@SC_176528
-Scenario: 
-Given one
-And two
-When something
-And some changes
-And test
-
 @SC_155533
 Scenario: Check update from GIT
 Given I created new scenario in repository
@@ -58,3 +50,12 @@ name description description description description description description des
 |dewie|2|62000.0|
 |mickey|3|35000.0|
 |stive|4|45000.0|
+
+
+@SC_176528
+Scenario: 
+Given one
+And two
+When something
+And some changes
+And test
