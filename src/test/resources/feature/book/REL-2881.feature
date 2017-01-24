@@ -4,14 +4,6 @@ I want to see new description with new changes
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
 
-@SC_176527
-Scenario: test update from jira all stories
-Given one
-And two
-When something
-And some changes
-And test
-
 @SC_176525
 Scenario: 
 Given I loaded feature from Jira to Relime
@@ -21,3 +13,11 @@ And I want to see changes in GIT
 Scenario: 
 Given I loaded feature from Jira to Relime
 And I want to see changes in GIT
+
+@SC_176527
+Scenario: test update from jira all stories
+Given one
+And two
+When something
+And some changes
+And test
