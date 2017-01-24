@@ -11,7 +11,6 @@ And two
 When something
 And some changes
 And test
-And ghjshjc
 
 @SC_176525
 Scenario: 
