@@ -1,5 +1,5 @@
 @ST_42219
-Feature: Check feature from repo
+Feature: Check feature from repo1
 
 @SC_159852
 Scenario: 
