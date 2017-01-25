@@ -1,24 +1,6 @@
 @ST_41045 @ghjh @Story_BookSearch
 Feature: Salary Management
 
-@SC_155548 @Critical @Test_1
-Scenario Outline: Modify an employee's salary
-Given the salary management system is initialized with the following data
-When the boss increases the salary for the <user> with id <id> by 5%
-Then the payroll for the employee with <id> should display a salary of <salary>
-And i want save this string to Git
-And this string must be pulled from Git
-And this also must be re-stored on GIT!!!!
-And 34wteyeyy
-When hjk 11111
-
-Examples: 
-|user|id|salary|
-|donald|||
-|dewie|||
-|fethry|||
-
-
 @SC_155549 @High @Test_1
 Scenario Outline: Modify an employee's salary
 Given the salary management system is initialized with the following data
@@ -41,3 +23,20 @@ Examples:
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
+
+@SC_155548 @Critical @Test_1
+Scenario Outline: Modify an employee's salary
+Given the salary management system is initialized with the following data
+When the boss increases the salary for the <user> with id <id> by 5%
+Then the payroll for the employee with <id> should display a salary of <salary>
+And i want save this string to Git
+And this string must be pulled from Git
+And this also must be re-stored on GIT!!!!
+And 34wteyeyy
+When hjk 11111
+
+Examples: 
+|user|id|salary|
+|donald|||
+|dewie|||
+|fethry|||
