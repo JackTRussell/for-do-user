@@ -7,9 +7,13 @@ Background:
 When in this story background hasn't given keyword
 
 @SC_155543 @Critical @Test_1
-Scenario: Check scenario
-Given this scenario must started from given keyword
-Then gherkin parser must be ok with parsing <#column1> and <@column2> and <:column3> and <co|umn> and <column>
+Scenario Outline: Check scenario
+Given this scenario must started from given keyword <column>
+Then gherkin parser must be ok with parsing <#column1>
+
+Examples: 
+|column|
+||
 
 @SC_155544
 Scenario: 
