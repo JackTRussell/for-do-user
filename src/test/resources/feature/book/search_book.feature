@@ -7,9 +7,13 @@ Background:
 And today is 2015-11-18
 
 @SC_155533
-Scenario: Check update from GIT
+Scenario Outline: Check update from GIT
 Given I created new scenario in repository
-Then I can see it in Relime andgkl
+Then I can see it in Relime <andgkl>
+
+Examples: 
+|andgkl|
+||
 
 @SC_155534
 Scenario: 
