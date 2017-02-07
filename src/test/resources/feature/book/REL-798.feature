@@ -3,6 +3,15 @@ Feature: [UI] Create service to interact with Jira
 The section of loaded scenario must be started like this
 *BDD*
 
+@SC_200882
+Scenario Outline: 
+Given hkjhkj
+And kjsdfhk <>
+
+Examples: 
+|$$emptyCol|
+||
+
 @SC_158874
 Scenario: first scenario for Jira check
 Given we have this story in Jira
