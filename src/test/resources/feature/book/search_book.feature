@@ -15,6 +15,7 @@ Examples:
 |andgkl|
 ||
 
+
 @SC_155534
 Scenario: 
 Given a $100 microwave was sold on 2015-11-03
