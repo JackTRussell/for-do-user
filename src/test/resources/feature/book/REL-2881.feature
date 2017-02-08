@@ -1,41 +1,24 @@
-@ST_49975
-Feature: Just feature for testing
-I want to see new description with new changes
-Given I loaded feature from Jira to Relime
-And I want to see changes in GIT
+@ST_53479
+Feature: DocString variations
+Feature which leads to this issue 
 
-@SC_189010
+@SC_202474
 Scenario: 
-Given I loaded feature from Jira to Relime
-And I want to see changes in GIT
+Given a simple DocString
+Given a DocString with content type
+And a DocString with wrong indentation
+And a DocString with alternative separator
 
-@SC_189011
-Scenario: test update from jira all stories
-Given one
-And two
-When something
-And some changes
-And test
-
-@SC_189012
+@SC_202475
 Scenario: 
-Given I loaded feature from Jira to Relime
-And I want to see changes in GIT
+Given a simple DocString
+Given a DocString with content type
+And a DocString with wrong indentation
+And a DocString with alternative separator
 
-@SC_202465
+@SC_202476
 Scenario: 
-Given I loaded feature from Jira to Relime
-And I want to see changes in GIT
-
-@SC_202466
-Scenario: test update from jira all stories
-Given one
-And two
-When something
-And some changes
-And test
-
-@SC_202467
-Scenario: 
-Given I loaded feature from Jira to Relime
-And I want to see changes in GIT
+Given a simple DocString
+Given a DocString with content type
+And a DocString with wrong indentation
+And a DocString with alternative separator
