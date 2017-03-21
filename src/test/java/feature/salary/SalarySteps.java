@@ -41,4 +41,8 @@ public class SalarySteps {
 	public void save_changes(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+	@When("^I see it in Relime$")
+	public void save_changes(int arg1) throws Throwable {
+		//TODO: add Table
+	}
 }
