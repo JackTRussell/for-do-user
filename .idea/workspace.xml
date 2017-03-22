@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828bbf8c-6058-491c-bfce-506a5d8dfa1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java" afterPath="$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java" />
     </list>
     <ignored path="cucumber-java-tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -498,12 +496,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1452506664543</updated>
-      <workItem from="1490180202817" duration="2425000" />
+      <workItem from="1490180202817" duration="2482000" />
     </task>
+    <task id="LOCAL-00001" summary="step imp">
+      <created>1490182843207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490182843207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2425000" />
+    <option name="totallyTimeSpent" value="2482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
@@ -556,7 +562,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="step imp" />
+    <option name="LAST_COMMIT_MESSAGE" value="step imp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
